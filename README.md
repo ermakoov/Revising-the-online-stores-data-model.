@@ -42,11 +42,11 @@
 
 3. Данные изначальной таблицы лога `shipping`
 
-[shipping.csv](https://code.s3.yandex.net/data-analyst/data_engeneer/shipping.csv)
+shipping.csv
 
 4. Скрипт создания таблицы `shipping`
 
-[0_create_shipping.sql](https://code.s3.yandex.net/data-analyst/data_engeneer/0_create_shipping.sql)
+0_create_shipping.sql
 
 **Особенности данных:**
 
