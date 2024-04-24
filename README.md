@@ -98,4 +98,4 @@
 
 В результате схема должна приобрести следующий вид:
 
-![[Screenshot_2022-05-16_at_15.13.37_1652802660.png]]
+<img width="1475" alt="Screenshot_2022-05-16_at_15 13 37_1652802660" src="https://github.com/ermakoov/Revising-the-online-stores-data-model./assets/159540686/25916101-77d3-4f4a-9a04-52ddabdb3da6">
