@@ -7,7 +7,8 @@
 ### Данные
 
 1. Существующая модель данных:
-![[Screenshot_2022-05-30_at_15.56.11_1653915946.png]]
+<img width="235" alt="Screenshot_2022-05-30_at_15 56 11_1653915946c" src="https://github.com/ermakoov/Revising-the-online-stores-data-model./assets/159540686/b9814f17-2cce-43de-b5e7-e7b7bc57d4b3">
+
 2. Таблица `shipping`, которая представляет собой последовательность действий при доставке, перечисленную ниже.
     
     - `shippingid` — уникальный идентификатор доставки.
