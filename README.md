@@ -96,6 +96,6 @@ shipping.csv
     - `profit` — итоговый доход компании с доставки. Высчитывается как: `payment_amount`∗ `agreement_commission`.
 ## Итоговый вид таблицы
 
-В результате схема должна приобрести следующий вид:
+В результате получили следующую схему:
 
 <img width="1475" alt="Screenshot_2022-05-16_at_15 13 37_1652802660" src="https://github.com/ermakoov/Revising-the-online-stores-data-model./assets/159540686/25916101-77d3-4f4a-9a04-52ddabdb3da6">
